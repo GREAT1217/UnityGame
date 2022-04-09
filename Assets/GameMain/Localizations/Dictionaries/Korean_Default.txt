@@ -1,0 +1,7 @@
+﻿#	语言key	#策划备注	Korean
+	Language.English		영어
+	Language.ChineseSimplified		중국어 간체
+	Language.ChineseTraditional		중국어 번체
+	Language.Korean		한국어
+	CheckVersion.Tips		게임 최신 버전 검색중...
+	UpdateResource.Tips		{0}/{1}, {2}/{3}, {4:P0}, {5}/s

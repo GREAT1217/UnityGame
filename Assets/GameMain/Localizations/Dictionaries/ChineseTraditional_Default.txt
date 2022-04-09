@@ -1,0 +1,7 @@
+﻿#	语言key	#策划备注	ChineseTraditional
+	Language.English		英語
+	Language.ChineseSimplified		簡體中文
+	Language.ChineseTraditional		繁體中文
+	Language.Korean		韓語
+	CheckVersion.Tips		正在檢查遊戲是否需要更新，請稍候……
+	UpdateResource.Tips		{0}/{1}, {2}/{3}, {4:P0}, {5}/s
